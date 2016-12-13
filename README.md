@@ -1,0 +1,1 @@
+# Angular-Route-with-JSON-Data-via-resource
