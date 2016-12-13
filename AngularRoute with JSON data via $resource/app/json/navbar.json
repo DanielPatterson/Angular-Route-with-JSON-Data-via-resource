@@ -1,0 +1,15 @@
+{
+	"navbarbrand": [
+		{"href": "#page1", "name": "YourBrand"}
+	],
+	
+	"links" : [
+		{"href": "#page1", "name": "Page 1"},
+		{"href": "#page2", "name": "Page 2"}		
+	],
+	
+	"dropdown" : [
+		{"name": "Dropdown"}
+	]
+
+}
